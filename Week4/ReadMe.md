@@ -8,9 +8,11 @@ Tengku Aizat bin Tengku Anuar 1921043
 
 
 SimpleButtonFunction
+
   Has Multiple Inputs and Outputs. 
   Also use of Conditional Statements
 
 SimpleLED_Blink
+
   Multiple outputs
   And Delays betweens Each Blink 
