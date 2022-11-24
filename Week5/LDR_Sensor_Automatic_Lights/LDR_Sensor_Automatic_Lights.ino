@@ -13,7 +13,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   ldrVal = analogRead(ldr_pin);
-  if(ldrVal <= 40)
+  if(ldrVal <= 50)
   {
     digitalWrite(lights_pin, HIGH);
   }
