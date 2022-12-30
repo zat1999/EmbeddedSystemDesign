@@ -1,0 +1,16 @@
+{
+	"device":
+	{
+	"pressure_sensor": 425,
+	"switch": "Off",
+	"Potentiometer_reading": 300,
+	"Read_history":
+		[
+			223,
+			833,
+			215,
+			426
+		]
+	}
+	
+}

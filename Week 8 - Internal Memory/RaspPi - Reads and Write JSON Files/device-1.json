@@ -1,0 +1,16 @@
+{
+	"device":
+	{
+	"temperature_sensor": 45,
+	"switch": "On",
+	"Potentiometer_reading": 300,
+	"Read_history":
+		[
+			123,
+			234,
+			345,
+			456
+		]
+	}
+	
+}

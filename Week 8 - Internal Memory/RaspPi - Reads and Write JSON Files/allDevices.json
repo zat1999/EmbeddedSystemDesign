@@ -1,0 +1,26 @@
+{
+     "All_Devices": {
+          "device1": {
+               "temperature_sensor": 45,
+               "switch": "On",
+               "Potentiometer_reading": 300,
+               "Read_history": [
+                    123,
+                    234,
+                    345,
+                    456
+               ]
+          },
+          "device2": {
+               "pressure_sensor": 425,
+               "switch": "Off",
+               "Potentiometer_reading": 300,
+               "Read_history": [
+                    223,
+                    833,
+                    215,
+                    426
+               ]
+          }
+     }
+}
